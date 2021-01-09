@@ -1,8 +1,8 @@
 #テーマの設定
-theme: sky
+theme: beige
 
 #ロゴアイコンの設定
-logo: logo.png
+logo: assets/illust-05.jpg
 
 #フットノートの設定
 footnote: "hashiba"
